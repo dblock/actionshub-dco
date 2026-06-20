@@ -63,6 +63,12 @@ It will ensure all commits on a commit have DCO - specific commits can be
 skipped using the filtering options to
 [get-pr-commits](https://github.com/actionshub/get-pr-commits)
 
+## Copyright and License
+
+Copyright Tim Zhang, Phil Dibowitz, and Contributors.
+
+ISC license, see [LICENSE.txt](LICENSE.txt) for details.
+
 ## History
 
 This is a fork of [tim-actions/dco](https://github.com/tim-actions/dco),
